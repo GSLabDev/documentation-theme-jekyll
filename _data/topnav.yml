@@ -13,8 +13,4 @@ topnav_dropdowns:
     - title: Products
       folderitems:
         - title: Mulesoft Docker Connector
-          url: /mydoc_introduction.html
-        - title: Mulesoft Connector 1
-          url: /p1_landing_page.html
-        - title: Mulesoft Connector 2
-          url: /p2_landing_page.html
+          url: /dc_landing_page.html
