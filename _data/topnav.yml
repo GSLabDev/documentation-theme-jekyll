@@ -14,3 +14,5 @@ topnav_dropdowns:
       folderitems:
         - title: Mulesoft Docker Connector
           url: /dc_landing_page.html
+        - title: Mulesoft Elasticsearch Connector
+          url: /es_landing_page.html

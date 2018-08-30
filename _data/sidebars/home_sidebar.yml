@@ -11,4 +11,6 @@ entries:
     - title: Mulesoft Docker Connector
       url: /dc_landing_page.html
       output: web
-
+    - title: Mulesoft Elasticsearch Connector
+      url: /es_landing_page.html
+      output: web
